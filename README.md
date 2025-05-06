@@ -1,2 +1,10 @@
 # Nesmaker-DarkMode
 Dark Mode plugin for NESMaker
+
+### Installation
+1. Download the latest release from releases
+2. Drag the `*.dll` file to NesMaker/Plugins/
+3. Done! It should now be installed and fully working on the next startup
+
+### Screenshots
+<img src="https://github.com/user-attachments/assets/39a728f6-84c3-43d8-b6aa-44332ec8b6ff" height="400" />
