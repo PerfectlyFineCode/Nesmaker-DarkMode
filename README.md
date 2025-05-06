@@ -8,3 +8,6 @@ Dark Mode plugin for NESMaker
 
 ### Screenshots
 <img src="https://github.com/user-attachments/assets/39a728f6-84c3-43d8-b6aa-44332ec8b6ff" height="400" />
+
+### Limitations
+- Only works on Windows 10 1809 and above
